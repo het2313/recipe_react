@@ -1,4 +1,4 @@
-<img width="80%" align="center" src="https://user-images.githubusercontent.com/76579213/115907304-509d6f80-a486-11eb-810a-6f0b35f33dee.png" alt="portfolio template mockup" /> <br/>
+<img width="80%" align="center" src="https://user-images.githubusercontent.com/76579213/115907683-d9b4a680-a486-11eb-8332-1764cdb88cf7.png"  /> <br/>
 
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
 
